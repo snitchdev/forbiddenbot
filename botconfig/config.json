@@ -1,0 +1,12 @@
+{
+  "token": "MTA1NDI0MjA1NzExNzUyMDAwMg.GNzeko.uCVGQnSyYnRqb0TZeH9K3rQbJxQesAzMZhJLyA",
+  "prefix": ".",
+  "defaultCommandCooldown" : 1,
+
+  "VERIFICATION_MESSAGE": "agree",
+  "message.channel.id": "1053327459245887538",
+  "VERIFICATION_CHANNEL": "verify"
+
+
+
+}

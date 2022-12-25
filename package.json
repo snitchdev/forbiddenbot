@@ -1,0 +1,36 @@
+{
+  "name": "discord-js-handler-template",
+  "version": "1.0.0",
+  "description": "Discord.js Command and Event Handler Template with example Command usages!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "percocet#1849 (author of this template)",
+  "license": "ISC",
+  "dependencies": {
+    "app-store-scraper": "^0.17.0",
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "g-i-s": "^2.1.6",
+    "glob": "^8.0.3",
+    "google": "^2.1.0",
+    "got": "^12.5.3",
+    "modules": "^0.4.0",
+    "moment": "^2.29.4",
+    "nekos.life": "^3.0.0",
+    "parse-ms": "^3.0.0",
+    "quick.db": "^9.0.8",
+    "tfc-discordboost": "^1.0.0",
+    "twemoji-parser": "^14.0.0",
+    "twitter-api.js": "^0.0.12",
+    "urban": "^0.3.4"
+  },
+  "devDependencies": {
+    "ascii-table": "0.0.9",
+    "colors": "^1.4.0"
+  }
+}
